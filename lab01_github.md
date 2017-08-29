@@ -23,15 +23,15 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  Create your response below this line. 
  ------------------
 
-*##A Favorite Quote*
+*##A Favorite Quote##*
 
 >"You miss 100% of the shots you don't take" *- Wayne Gretsky*
 
-*##A Favorite Photo*
+*##A Favorite Photo##*
 ![alt text](https://github.com/introdh/intro-dh-Kevin1000000/blob/master/sub-buzz-12285-1479814525-5.jpg "Tibet")
 Source: [buzzfeed.com](https://www.buzzfeed.com/arielbardi/what-has-3-idiots-done-to-ladakh?utm_term=.gbv9k6rZN#.uh7J60eQr)
 
-#The biggest questions I have going into this class are:
+#The biggest questions I have going into this class are:#
 1. What can I learn about the digital humanities and apply to my field of study?
 2. How do the digital humanities play into the digital future?
 3. How can I best learn about the digital humanities?
