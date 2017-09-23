@@ -1,0 +1,13 @@
+For this assignment, the topic that I wanted to base my research around was a topic I am familiar with both personally and professionally — music. I decided to look at one of the best-selling and highest-charting musical artists in the 21st century, Jay-Z, and the success he has had with Timbaland, a high-charting and best-selling record producer. His work with and without Timbaland on all 14 of his albums is charted in the two tables. I wanted to use this data to ask questions about Jay-Z, like where his success comes from, at what level does the work of Timbaland make a Jay-Z album a hit, and how does this correlate to Timbaland’s work with other popular artists. Those questions grew naturally from the process of charting this data, and have inspired me to think deeper and how data is collected in the digital humanities and what it can be used for. 
+
+My sources for the information in these tables are the [Grammy Awards website](https://www.grammy.com/grammys/awards), Billboard Magazine’s [Chart history page](http://www.billboard.com/artist/304305/jay-z/chart?f=30) for Jay-Z, Jay-Z’s [Album Sales Statistics webpage](http://www.statisticbrain.com/jay-z-album-sale-statistics/) and Wikipedia’s [Jay-Z album discography](https://en.wikipedia.org/wiki/Jay-Z_albums_discography).
+
+Data Dictionary:
+- Album: The album of music that was put out by the artist Jay-Z; a character variable.
+- Genre: The genre of music that is featured on the album in reference in Jay-Z’s catalog; a categorical variable.
+- Peak Billboard 200 Chart Position: This number is the highest that the Jay-Z album in reference ever charted in popularity, radio play and sales on the Billboard Magazine’s Top 200 Albums chart; a numerical variable. 
+- Date of Charts Peak: This is the date when the album in reference peaked at its highest on the Billboard 200 chart; a date variable.
+- Consecutive Weeks Spent on Charts: This is the number of weeks in a row that this album in reference spent charting on Billboard’s 200 chart; a numerical variable.
+- Album Sales Worldwide (in units sold): This number is how many physical or digital albums were sold since the release date of the album; a numerical variable.
+- Grammy Awards Presence: This variable includes the recognition of the album in reference to the United States’ Grammy Awards, the largest music awards ceremony of the year; a character variable  
+- Timbaland Production Role (only seen on Table 1): This represents the level of influence that the producer Timbaland had on the album in reference, varying from a small presence on only a few songs (associate producer) or from a larger role in the sound of the album (lead producer); a character variable.
