@@ -36,6 +36,25 @@ Andrew Goldstone and Ted Underwood, "What Can Topic Models of PMLA Teach Us Abou
 2. "And this is the point: a “topic” is neither more nor less than a pattern of co-occurring words." - This point is made clear in the text and through the example of the Italian text being lumped together, but this would make me think that some “topics” will be gathered incorrectly and produce useless results from the topic modeling? An unclear moment for me in this reading.
 
 ### 2017-10-02: Topic Modeling II
+Signs @ 40
+My a-ha moment: This presentation of topic modeling was the most clear -- and possibly simplest -- translation of data to presentation we’ve looked at yet. The topic modeling done on Signs was similar to the topic modeling we had done in class, but is a clean and flowing well of data that helps me understand how topic modeling can be shown, not just used. 
+
+My WTF moment: I suppose if I had a moment that most confused me from this presentation of topic modeling in Signs, it would be the amount of data given. I wouldn’t have thought that the organizers of this data would have felt the need to present every example of low-frequency words or topics, but in some ways that does represent topic modeling. 
+
+Mining the Dispatch
+My WTF moment: The organization of this data mining and topic modeling is not as clear or interactive as the Signs @ 40 project, and I find it harder to consume the topics, which are confusingly organized into larger themes that leave me wondering about the topics themselves. I suppose I only find this confusing in comparison to how neatly the other project is laid out.
+
+My a-ha moment: For me, this sort of topic modeling hits home. As I am a journalism major, I would be very interested to do topic modeling on news outlets and find larger themes throughout publishing years. For this to cover the Civil War-era Richmond Dispatch and do such a successful job at finding topics, it gives me inspiration to search through other news sources of any era.
+
+Robinson, David. "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half"
+My a-ha moment: I was enlightened to learn from this article about how the thought process evolves when one is looking to use topic modeling on any form of media. I truly had not thought that topic modeling on tweets could work, as I recalled that the documents to be modeled needed to be large, but seeing it in this form is unique.
+
+My WTF moment: A footnote on this article points out that the author does not include code for some calculations of figures, which makes me think that this author could have excluded the figures all together, and generally simplified his scope for the purpose of the article. As a journalist, I understand the joy in publishing all the research you’ve collected, but in this case, extraneous figures can be confusing. 
+
+Gamerman, Ellen. “Data Miners Dig for Answers About Harper Lee, Truman Capote and ‘Go Set a Watchman.”
+My a-ha moment: This is an excellent example of why data mining and topic modeling are needed in the humanities, as this mystery over the authoring of one of the most famous novels of all time may never have been solved without it. The use of the words “a” “the” and “and” being markers for an author’s style was also made clear to me in this article, as it is involving text I am more familiar with, and I can see how a style would form out of those words and their placement in text. 
+
+My WTF moment: I suppose my only WTF moment was finding out that the climax of “Mockingbird” had more of Capote’s style than of Harper Lee’s. Overall this was a very understandable article that shed light on a perfect case for topic modeling.
 
 ### 2017-10-09: Stylometry
 
