@@ -47,11 +47,13 @@ My WTF moment: The organization of this data mining and topic modeling is not as
 My a-ha moment: For me, this sort of topic modeling hits home. As I am a journalism major, I would be very interested to do topic modeling on news outlets and find larger themes throughout publishing years. For this to cover the Civil War-era Richmond Dispatch and do such a successful job at finding topics, it gives me inspiration to search through other news sources of any era.
 
 Robinson, David. "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half"
+
 My a-ha moment: I was enlightened to learn from this article about how the thought process evolves when one is looking to use topic modeling on any form of media. I truly had not thought that topic modeling on tweets could work, as I recalled that the documents to be modeled needed to be large, but seeing it in this form is unique.
 
 My WTF moment: A footnote on this article points out that the author does not include code for some calculations of figures, which makes me think that this author could have excluded the figures all together, and generally simplified his scope for the purpose of the article. As a journalist, I understand the joy in publishing all the research you’ve collected, but in this case, extraneous figures can be confusing. 
 
 Gamerman, Ellen. “Data Miners Dig for Answers About Harper Lee, Truman Capote and ‘Go Set a Watchman.”
+
 My a-ha moment: This is an excellent example of why data mining and topic modeling are needed in the humanities, as this mystery over the authoring of one of the most famous novels of all time may never have been solved without it. The use of the words “a” “the” and “and” being markers for an author’s style was also made clear to me in this article, as it is involving text I am more familiar with, and I can see how a style would form out of those words and their placement in text. 
 
 My WTF moment: I suppose my only WTF moment was finding out that the climax of “Mockingbird” had more of Capote’s style than of Harper Lee’s. Overall this was a very understandable article that shed light on a perfect case for topic modeling.
