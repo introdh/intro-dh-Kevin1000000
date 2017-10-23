@@ -64,6 +64,28 @@ My WTF moment: I suppose my only WTF moment was finding out that the climax of �
 
 ### 2017-10-23: Mapping: A Critical Introductin
 
+Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the Future of History.” 
+
+My a-ha moment: The moment in this article where I found the most clarity was through the general understanding of the need and usefulness of fusing GIS work with the humanities and history. Citing historians and humanitarians alike, Bodenhamer is able to present a nuanced and challenging task which will provide great things in the future. 
+
+My WTF moment: In general, I found that Bodenhamer spoke in generalities too often, and was not able to clearly lay out his argument in the article. His message only became clear through the citing and quoting of his sources to me. As well, I was a little unclear on the application of GIS into the humanities, as Bodenhamer was able to speak extensively on the issues surrounding applying GIS to the humanities, but did not present how one should get around these challenges. 
+
+White, Richard. “What is spatial history?”
+
+My a-ha moment: My a-ha moment for this article did not come from a specific quote, but from the breadth of examples that White used to strengthen his definition of "spatial history", a topic that is easier to understand in practice than in theory. The use of different projects throughout history, from the map of Napoleon's Army's march to the interior of the chapel are great examples of the different methods and uses for spatial history.
+
+My WTF moment: The initial explanation of spatial history was lost on me in some ways, as the jargon that was prevalent in the first article was in use here as well. I suppose the only way to make this a little more understandable would be to add definitions of some of the more abstract concepts in clearer language.
+
+Shnayder, Evgenia. “A Data Model for Spatial History.” November 15, 2010.
+
+My a-ha moment: Shnayder provides a solid example within the Stanford Spatial History Lab of White, and is able to articulate the steps and methods one can explore when using ArcGIS to conduct Spatial History and Reasoning. A quote I thought put all this in perspective was, "If the Western Railroads Geodatabase can best be described as a container, then it is also a container that can expand to accommodate new data."
+
+My WTF moment: This example of data modeling in spatial history was only confusing in that I was unaware of the specifics of ArcGIS bfore I read the tools the author used with it. If possible, a demo or explanation of ArcGIS would be helpful in clearing that up. 
+
+Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell
+
+I was a little unclear as to how to access this PDF, as the link in the syllabus took me to a github hosting page with many documents. 
+
 ### 2017-11-06: Social networks
 
 ### 2017-11-13: Layering Networks
