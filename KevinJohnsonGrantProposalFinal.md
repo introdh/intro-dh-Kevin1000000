@@ -21,7 +21,7 @@ This project largest challenge lies in its scope. For this project to accurately
 + *The Capital Times* (Newspaper, Madison, WI., In Print from 1917-2008)
 + *Newsweek* (News Magazine, New York City, In Print from 1933-2012, 2013- ) 
 + *Jet* (News Magazine, New York City, In Print from 1955-2014)
- * *Newsweek was out of print for a brief period of time before reviving their print version in 2013. For this project I will be using the corpus created during their time as an online-only publication.*
+**Newsweek was out of print for a brief period of time before reviving their print version in 2013. For this project I will be using the corpus created during their time as an online-only publication.*
 
 Through these six publications, I hope to collect topics that represent the current media landscape in a digital form, as well as the previous media landscape of a dominant print sector, with the hope of disseminating this information to various media contributors. 
 
