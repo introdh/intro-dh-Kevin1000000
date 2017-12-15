@@ -1,10 +1,10 @@
-# H1 Diagnosing Print Media’s Death through Topic Modeling
-## H2 A Grant Proposal to the National Endowment for the Humanities
+# Diagnosing Print Media’s Death through Topic Modeling
+## A Grant Proposal to the National Endowment for the Humanities
 
 By Kevin Johnson
 
 
-**Section I: Enhancing the Humanities
+_Section I: Enhancing the Humanities_*
 
 The common trope that has occured about journalism in the present is that print is dying, and moving online into digital publishing is how some publications are able to stay alive, despite still being in a slumping industry. As a journalism major, I have questioned the accuracy of this trope, as I have a financial and occupational stake in the changes of the media landscape. Through trade research, I have found that there is certain proof that media has taken a hit in the print sector and that digital is on the rise, coming majorly from a shift in advertising revenue with changing technology. The most startling number associated with print’s demise is the overall loss of revenue from 2000 to 2015, print media’s darkest days in history. Within this 15 year span, ad revenue dropped from 60 billion to 20 billion, completely wiping out the growth the industry has seen over the past 50 years. 
 
